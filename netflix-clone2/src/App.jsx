@@ -1,12 +1,15 @@
 
-import './App.css'
 
-import React from 'react'
+import './App.css';
 
-const App = () => {
+import Home from './pages/Home/Home '
+function App() {
   return (
-    <div className='app'>App</div>
-  )
+    <div className="App">
+   <Home/>
+   
+    </div>
+  );
 }
-
-export default App
+// api-key=58977b196d90f2e248c7c6286c88c5be
+export default App;
