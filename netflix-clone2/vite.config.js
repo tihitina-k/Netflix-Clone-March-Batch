@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/netflix-clone-march-batch/', 
+   base: '/Netflix-Clone-March-Batch/', 
 })
