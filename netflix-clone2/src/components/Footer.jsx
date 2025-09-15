@@ -17,7 +17,7 @@ const Footer = () => {
       <div className='footer-data'>  
      <div className='firstdata'>
           <ul>
-            <li>Audio Description</li>
+            <li>Audioy Description</li>
             <li>Investors Relations</li>
             <li>Legal Notes</li>
             <li className='serviceCode'>Service Code</li>
