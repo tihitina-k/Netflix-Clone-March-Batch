@@ -1,12 +1,11 @@
 {
-  "homepage": "https://tihitina-k.github.io/netflix-clone-march-batch/",
+ 
   "name": "netflix-clone-march-batch",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "build": "vite build"
+   
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",
